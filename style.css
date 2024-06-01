@@ -1,0 +1,16 @@
+.one{
+   align-items: center; 
+   padding-top: 50px;
+   margin-top: 150px;
+   box-shadow: 1px 1px 8px 8px;
+}
+h1{
+   text-align: center;
+   padding-top: 100px;
+}
+.two{
+   clip-path: circle(50% at 50% 50%);
+}
+.three{
+   text-align: center;
+}
